@@ -128,3 +128,7 @@ void variablesIniciales(){
   col1= color(0);
   col2=color(255);
 }
+
+
+//VIDEO
+//https://www.youtube.com/watch?v=NIsUQB_Nt4I
